@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Locaters>
+
+    <STCKSALitePrice>//*[@id="currency-lite"]/b</STCKSALitePrice>
+    <STCKSALiteCurrency>//*[@id="currency-lite"]/i</STCKSALiteCurrency>
+    <STCKSAClassicPrice>//*[@id="currency-classic"]/b</STCKSAClassicPrice>
+    <STCKSAClassicCurrency>//*[@id="currency-classic"]/i</STCKSAClassicCurrency>
+    <STCKSAPremiumPrice>//*[@id="currency-premium"]/b</STCKSAPremiumPrice>
+    <STCKSAPremiumCurrency>//*[@id="currency-premium"]/i</STCKSAPremiumCurrency>
+    <STCKSALiteDiscoveryValue>//*[@id="main"]/div/div[1]/div[4]/div[2]/div[1]</STCKSALiteDiscoveryValue>
+    <STCKSAClassicDiscoveryValue>//*[@id="main"]/div/div[1]/div[4]/div[2]/div[2]</STCKSAClassicDiscoveryValue>
+    <STCKSAPremiumDiscoveryValue>//*[@id="main"]/div/div[1]/div[4]/div[2]/div[3]</STCKSAPremiumDiscoveryValue>
+    <STCKSALiteFreeTrialValue>//*[@id="main"]/div/div[1]/div[5]/div[2]/div[1]</STCKSALiteFreeTrialValue>
+    <STCKSAClassicFreeTrialValue>//*[@id="main"]/div/div[1]/div[5]/div[2]/div[2]</STCKSAClassicFreeTrialValue>
+    <STCKSAPremiumFreeTrialValue>//*[@id="main"]/div/div[1]/div[5]/div[2]/div[3]</STCKSAPremiumFreeTrialValue>
+    <STCKSALiteVedioQualityValue>//*[@id="main"]/div/div[1]/div[6]/div[2]/div[1]</STCKSALiteVedioQualityValue>
+    <STCKSAClassicVideoQualityValue>//*[@id="main"]/div/div[1]/div[6]/div[2]/div[2]</STCKSAClassicVideoQualityValue>
+    <STCKSAPremiumVideoQualityValue>//*[@id="main"]/div/div[1]/div[6]/div[2]/div[3]</STCKSAPremiumVideoQualityValue>
+    <STCKSALiteDeviceAccessValue>//*[@id="main"]/div/div[1]/div[7]/div[2]/div[1]</STCKSALiteDeviceAccessValue>
+    <STCKSAClassicDeviceAccessValue>//*[@id="main"]/div/div[1]/div[7]/div[2]/div[2]</STCKSAClassicDeviceAccessValue>
+    <STCKSAPremiumDeviceAccessValue>//*[@id="main"]/div/div[1]/div[7]/div[2]/div[3]</STCKSAPremiumDeviceAccessValue>
+    <STCKSALiteRewindValue>//*[@id="main"]/div/div[1]/div[8]/div[2]/div[1]</STCKSALiteRewindValue>
+    <STCKSAClassicRewindValue>//*[@id="main"]/div/div[1]/div[8]/div[2]/div[2]</STCKSAClassicRewindValue>
+    <STCKSAPremiumRewindValue>//*[@id="main"]/div/div[1]/div[8]/div[2]/div[3]</STCKSAPremiumRewindValue>
+    <STCKSALiteWatchOfflineValue>//*[@id="main"]/div/div[1]/div[9]/div[2]/div[1]</STCKSALiteWatchOfflineValue>
+    <STCKSAClassicWatchOfflineValue>//*[@id="main"]/div/div[1]/div[9]/div[2]/div[2]</STCKSAClassicWatchOfflineValue>
+    <STCKSAPremiumWatchOfflineValue>//*[@id="main"]/div/div[1]/div[9]/div[2]/div[3]</STCKSAPremiumWatchOfflineValue>
+    <STCKSALiteWatchSimultaneouslyValue>//*[@id="main"]/div/div[1]/div[10]/div[2]/div[1]</STCKSALiteWatchSimultaneouslyValue>
+    <STCKSAClassicWatchSimultaneouslyValue>//*[@id="main"]/div/div[1]/div[10]/div[2]/div[2]</STCKSAClassicWatchSimultaneouslyValue>
+    <STCKSAPremiumWatchSimultaneouslyValue>//*[@id="main"]/div/div[1]/div[10]/div[2]/div[3]</STCKSAPremiumWatchSimultaneouslyValue>
+    <STCKSALiteCastToTVValue>//*[@id="main"]/div/div[1]/div[11]/div[2]/div[1]</STCKSALiteCastToTVValue>
+    <STCKSAClassicCastToTValue>//*[@id="main"]/div/div[1]/div[11]/div[2]/div[2]</STCKSAClassicCastToTValue>
+    <STCKSAPremiumCastToTVValue>//*[@id="main"]/div/div[1]/div[11]/div[2]/div[3]</STCKSAPremiumCastToTVValue>
+    <STCKSALiteDiscoveryPlusValue>//*[@id="main"]/div/div[2]/div[2]/div[2]/div[1]</STCKSALiteDiscoveryPlusValue>
+    <STCKSAClassicDiscoveryPlusValue>//*[@id="main"]/div/div[2]/div[2]/div[2]/div[2]</STCKSAClassicDiscoveryPlusValue>
+    <STCKSAPremiumDiscoveryPlusValue>//*[@id="main"]/div/div[2]/div[2]/div[2]/div[3]</STCKSAPremiumDiscoveryPlusValue>
+    <STCKSALiteFightValue>//*[@id="main"]/div/div[2]/div[3]/div[2]/div[1]</STCKSALiteFightValue>
+    <STCKSAClassicFightValue>//*[@id="main"]/div/div[2]/div[3]/div[2]/div[2]</STCKSAClassicFightValue>
+    <STCKSAPremiumFightValue>//*[@id="main"]/div/div[2]/div[3]/div[2]/div[3]</STCKSAPremiumFightValue>
+    <STCKSAGiftCardLogo>//*[@id="main"]/div/div[3]/div[1]</STCKSAGiftCardLogo>
+    <STCKSAGiftCardHeader>//*[@id="main"]/div/div[3]/div[2]/h4</STCKSAGiftCardHeader>
+    <STCKSAGiftCardText>//*[@id="main"]/div/div[3]/div[2]/p</STCKSAGiftCardText>
+    <STCKSAGiftCardButton>//*[@id="main"]/div/div[3]/button</STCKSAGiftCardButton>
+    <STCKSAExclusiveForStcHeader>//*[@id="main"]/div/h3[2]</STCKSAExclusiveForStcHeader>
+    <STCKSAMofawtarImage>//*[@id="main"]/div/div[4]/div[1]/img</STCKSAMofawtarImage>
+    <STCKSAMofawtarHeader>//*[@id="main"]/div/div[4]/div[1]/div/h3</STCKSAMofawtarHeader>
+    <STCKSAMofawtarText>//*[@id="main"]/div/div[4]/div[1]/div/p</STCKSAMofawtarText>
+    <STCKSATamayouzImage>//*[@id="main"]/div/div[4]/div[2]/img</STCKSATamayouzImage>
+    <STCKSATamayouzHeader>//*[@id="main"]/div/div[4]/div[2]/div/h3</STCKSATamayouzHeader>
+    <STCKSATamayouzText>//*[@id="main"]/div/div[4]/div[2]/div/p</STCKSATamayouzText>
+    <STCKSAFreeText>//*[@id="main"]/div/div[4]/div[3]/div/span</STCKSAFreeText>
+    <STCKSAFreeButton>//*[@id="main"]/div/div[4]/div[3]/button</STCKSAFreeButton>
+    <STCKSABaityFiberHeader>//*[@id="main"]/div/h3[3]</STCKSABaityFiberHeader>
+    <STCKSABaityFiberImage>//*[@id="main"]/div/div[5]/div[1]/img</STCKSABaityFiberImage>
+    <STCKSABaityFiberTitle>//*[@id="main"]/div/div[5]/div[1]/div/h3</STCKSABaityFiberTitle>
+    <STCKSABaityFiberText>//*[@id="main"]/div/div[5]/div[1]/div/p</STCKSABaityFiberText>
+
+</Locaters>

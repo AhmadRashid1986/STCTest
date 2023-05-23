@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Locaters>
+
+    <STCKATLitePrice>//*[@id="currency-lite"]/b</STCKATLitePrice>
+    <STCKATLiteCurrency>//*[@id="currency-lite"]/i</STCKATLiteCurrency>
+    <STCKATClassicPrice>//*[@id="currency-classic"]/b</STCKATClassicPrice>
+    <STCKATClassicCurrency>//*[@id="currency-classic"]/i</STCKATClassicCurrency>
+    <STCKATPremiumPrice>//*[@id="currency-premium"]/b</STCKATPremiumPrice>
+    <STCKATPremiumCurrency>//*[@id="currency-premium"]/i</STCKATPremiumCurrency>
+    <STCKATLiteDiscoveryValue>//*[@id="main"]/div/div[1]/div[4]/div[2]/div[1]</STCKATLiteDiscoveryValue>
+    <STCKATClassicDiscoveryValue>//*[@id="main"]/div/div[1]/div[4]/div[2]/div[2]</STCKATClassicDiscoveryValue>
+    <STCKATPremiumDiscoveryValue>//*[@id="main"]/div/div[1]/div[4]/div[2]/div[3]</STCKATPremiumDiscoveryValue>
+    <STCKATLiteFreeTrialValue>//*[@id="main"]/div/div[1]/div[5]/div[2]/div[1]</STCKATLiteFreeTrialValue>
+    <STCKATClassicFreeTrialValue>//*[@id="main"]/div/div[1]/div[5]/div[2]/div[2]</STCKATClassicFreeTrialValue>
+    <STCKATPremiumFreeTrialValue>//*[@id="main"]/div/div[1]/div[5]/div[2]/div[3]</STCKATPremiumFreeTrialValue>
+    <STCKATLiteVedioQualityValue>//*[@id="main"]/div/div[1]/div[6]/div[2]/div[1]</STCKATLiteVedioQualityValue>
+    <STCKATClassicVideoQualityValue>//*[@id="main"]/div/div[1]/div[6]/div[2]/div[2]</STCKATClassicVideoQualityValue>
+    <STCKATPremiumVideoQualityValue>//*[@id="main"]/div/div[1]/div[6]/div[2]/div[3]</STCKATPremiumVideoQualityValue>
+    <STCKATLiteDeviceAccessValue>//*[@id="main"]/div/div[1]/div[7]/div[2]/div[1]</STCKATLiteDeviceAccessValue>
+    <STCKATClassicDeviceAccessValue>//*[@id="main"]/div/div[1]/div[7]/div[2]/div[2]</STCKATClassicDeviceAccessValue>
+    <STCKATPremiumDeviceAccessValue>//*[@id="main"]/div/div[1]/div[7]/div[2]/div[3]</STCKATPremiumDeviceAccessValue>
+    <STCKATLiteRewindValue>//*[@id="main"]/div/div[1]/div[8]/div[2]/div[1]</STCKATLiteRewindValue>
+    <STCKATClassicRewindValue>//*[@id="main"]/div/div[1]/div[8]/div[2]/div[2]</STCKATClassicRewindValue>
+    <STCKATPremiumRewindValue>//*[@id="main"]/div/div[1]/div[8]/div[2]/div[3]</STCKATPremiumRewindValue>
+    <STCKATLiteWatchOfflineValue>//*[@id="main"]/div/div[1]/div[9]/div[2]/div[1]</STCKATLiteWatchOfflineValue>
+    <STCKATClassicWatchOfflineValue>//*[@id="main"]/div/div[1]/div[9]/div[2]/div[2]</STCKATClassicWatchOfflineValue>
+    <STCKATPremiumWatchOfflineValue>//*[@id="main"]/div/div[1]/div[9]/div[2]/div[3]</STCKATPremiumWatchOfflineValue>
+    <STCKATLiteWatchSimultaneouslyValue>//*[@id="main"]/div/div[1]/div[10]/div[2]/div[1]</STCKATLiteWatchSimultaneouslyValue>
+    <STCKATClassicWatchSimultaneouslyValue>//*[@id="main"]/div/div[1]/div[10]/div[2]/div[2]</STCKATClassicWatchSimultaneouslyValue>
+    <STCKATPremiumWatchSimultaneouslyValue>//*[@id="main"]/div/div[1]/div[10]/div[2]/div[3]</STCKATPremiumWatchSimultaneouslyValue>
+    <STCKATLiteCastToTVValue>//*[@id="main"]/div/div[1]/div[11]/div[2]/div[1]</STCKATLiteCastToTVValue>
+    <STCKATClassicCastToTValue>//*[@id="main"]/div/div[1]/div[11]/div[2]/div[2]</STCKATClassicCastToTValue>
+    <STCKATPremiumCastToTVValue>//*[@id="main"]/div/div[1]/div[11]/div[2]/div[3]</STCKATPremiumCastToTVValue>
+    <STCKATLiteDiscoveryPlusValue>//*[@id="main"]/div/div[2]/div[2]/div[2]/div[1]</STCKATLiteDiscoveryPlusValue>
+    <STCKATClassicDiscoveryPlusValue>//*[@id="main"]/div/div[2]/div[2]/div[2]/div[2]</STCKATClassicDiscoveryPlusValue>
+    <STCKATPremiumDiscoveryPlusValue>//*[@id="main"]/div/div[2]/div[2]/div[2]/div[3]</STCKATPremiumDiscoveryPlusValue>
+    <STCKATLiteFightValue>//*[@id="main"]/div/div[2]/div[3]/div[2]/div[1]</STCKATLiteFightValue>
+    <STCKATClassicFightValue>//*[@id="main"]/div/div[2]/div[3]/div[2]/div[2]</STCKATClassicFightValue>
+    <STCKATPremiumFightValue>//*[@id="main"]/div/div[2]/div[3]/div[2]/div[3]</STCKATPremiumFightValue>
+
+</Locaters>

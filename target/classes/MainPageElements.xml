@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Locaters>
+
+    <STCMainLogo>//a[@id='jawwy-logo-web']</STCMainLogo>
+    <STCCountrySelector>//header/div[1]/div[2]/div[1]</STCCountrySelector>
+    <STCSignInButton>//a[@id='signin']</STCSignInButton>
+    <STCLanguageChangeButton>//a[@id='translation-btn']</STCLanguageChangeButton>
+    <STCHeaderText>//h2[contains(text(),'Choose Your Plan')]</STCHeaderText>
+    <STCPlanHeader>//b[contains(text(),'Choose Your Plan')]</STCPlanHeader>
+    <STCPlanDisclamer>//*[@id="main"]/div/div[1]/div[1]/div/h2/span/span</STCPlanDisclamer>
+    <STCMonthlyPriceLabel>//div[contains(text(),'Monthly price after free trial')]</STCMonthlyPriceLabel>
+    <STCDiscoveryLabel>//*[@id="main"]/div/div[1]/div[4]/div[1]</STCDiscoveryLabel>
+    <STCFreeTrialLabel>//div[contains(text(),'Free trial')]</STCFreeTrialLabel>
+    <STCVideoQualityLabel>//div[contains(text(),'Video quality')]</STCVideoQualityLabel>
+    <STCDeviceAccessLabel>//div[contains(text(),'Device access')]</STCDeviceAccessLabel>
+    <STCRewindLabel>//div[contains(text(),'Rewind')]</STCRewindLabel>
+    <STCWatchOfflineLabel>//div[contains(text(),'Watch offline')]</STCWatchOfflineLabel>
+    <STCWatchSimultaneouslyLabel>//div[contains(text(),'Watch simultaneously')]</STCWatchSimultaneouslyLabel>
+    <STCCastToTVLabel>//div[contains(text(),'Cast to tv')]</STCCastToTVLabel>
+    <STCLitePlanHeader>//strong[@id='name-lite']</STCLitePlanHeader>
+    <STCClassicPlanHeader>//strong[@id='name-classic']</STCClassicPlanHeader>
+    <STCPremiumPlanHeader>//strong[@id='name-premium']</STCPremiumPlanHeader>
+    <STCLiteFreeButton>//a[@id='lite-selection']</STCLiteFreeButton>
+    <STCClassicFreeButton>//a[@id='classic-selection']</STCClassicFreeButton>
+    <STCPremiumFreeButton>//a[@id='premium-selection']</STCPremiumFreeButton>
+    <STCAvailableAddOnsHeader>//b[contains(text(),'Available Add-Ons')]</STCAvailableAddOnsHeader>
+    <STCAvailableAddOnsDisclamer>//span[contains(text(),'Add-ons available at an additional cost. Add them ')]</STCAvailableAddOnsDisclamer>
+    <STCAvailableAddOnsDiscoveryLabel>//*[@id="main"]/div/div[2]/div[2]/div[1]</STCAvailableAddOnsDiscoveryLabel>
+    <STCAvailableAddOnsFightLabel>//*[@id="main"]/div/div[2]/div[3]/div[1]</STCAvailableAddOnsFightLabel>
+    <STCFAQFotter>//*[@id="links_group"]/li[2]/a</STCFAQFotter>
+    <STCTermsAndConditionFotter>//*[@id="links_group"]/li[3]/a</STCTermsAndConditionFotter>
+    <STCPrivacyPolicyFotter>//*[@id="links_group"]/li[4]/a</STCPrivacyPolicyFotter>
+    <STCAboutUsFotter>//*[@id="links_group"]/li[5]/a</STCAboutUsFotter>
+    <STCContactUsFotter>//*[@id="links_group"]/li[6]/a</STCContactUsFotter>
+    <STCVATRegistrationCertificateFotter>//*[@id="links_group"]/li[7]/a</STCVATRegistrationCertificateFotter>
+    <STCPlayStoreButton>//*[@id="footer"]/div/div/div[1]/a[1]</STCPlayStoreButton>
+    <STCAppleStoreButton>//*[@id="footer"]/div/div/div[1]/a[2]</STCAppleStoreButton>
+    <STCAppGaleryButton>//*[@id="footer"]/div/div/div[1]/a[3]</STCAppGaleryButton>
+    <STCFacebookButton>//*[@id="socialIcons"]/a[1]</STCFacebookButton>
+    <STCTwitterButton>//*[@id="socialIcons"]/a[2]</STCTwitterButton>
+    <STCInstagramButton>//*[@id="socialIcons"]/a[3]</STCInstagramButton>
+    <STCSnapChatButton>//*[@id="socialIcons"]/a[4]</STCSnapChatButton>
+    <STCYouTubeButton>//*[@id="socialIcons"]/a[5]</STCYouTubeButton>
+    <STCFotterText>//div[@id='copyrightText']</STCFotterText>
+    <STCSupportButton>//iframe[@id='launcher']</STCSupportButton>
+
+    <CSPTitle>//*[@id="country-title"]</CSPTitle>
+    <CSPBahrainButton>//*[@id="bh"]</CSPBahrainButton>
+    <CSPBahrainIcon>//*[@id="bh-contry-flag"]/img</CSPBahrainIcon>
+    <CSPBahrainLabel>//*[@id="bh-contry-lable"]</CSPBahrainLabel>
+    <CSPKSAButton>//*[@id="sa"]</CSPKSAButton>
+    <CSPKSAIcon>//*[@id="sa-contry-flag"]/img</CSPKSAIcon>
+    <CSPKSALabel>//*[@id="sa-contry-lable"]</CSPKSALabel>
+    <CSPKuwaitButton>//*[@id="kw"]</CSPKuwaitButton>
+    <CSPKuwaitIcon>//*[@id="kw-contry-flag"]/img</CSPKuwaitIcon>
+    <CSPKuwaitLabel>//*[@id="kw-contry-lable"]</CSPKuwaitLabel>
+
+</Locaters>

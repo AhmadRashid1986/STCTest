@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Locaters>
+
+    <STCBAHLitePrice>//*[@id="currency-lite"]/b</STCBAHLitePrice>
+    <STCBAHLiteCurrency>//*[@id="currency-lite"]/i</STCBAHLiteCurrency>
+    <STCBAHClassicPrice>//*[@id="currency-classic"]/b</STCBAHClassicPrice>
+    <STCBAHClassicCurrency>//*[@id="currency-classic"]/i</STCBAHClassicCurrency>
+    <STCBAHPremiumPrice>//*[@id="currency-premium"]/b</STCBAHPremiumPrice>
+    <STCBAHPremiumCurrency>//*[@id="currency-premium"]/i</STCBAHPremiumCurrency>
+    <STCBAHLiteDiscoveryValue>//*[@id="main"]/div/div[1]/div[4]/div[2]/div[1]</STCBAHLiteDiscoveryValue>
+    <STCBAHClassicDiscoveryValue>//*[@id="main"]/div/div[1]/div[4]/div[2]/div[2]</STCBAHClassicDiscoveryValue>
+    <STCBAHPremiumDiscoveryValue>//*[@id="main"]/div/div[1]/div[4]/div[2]/div[3]</STCBAHPremiumDiscoveryValue>
+    <STCBAHLiteFreeTrialValue>//*[@id="main"]/div/div[1]/div[5]/div[2]/div[1]</STCBAHLiteFreeTrialValue>
+    <STCBAHClassicFreeTrialValue>//*[@id="main"]/div/div[1]/div[5]/div[2]/div[2]</STCBAHClassicFreeTrialValue>
+    <STCBAHPremiumFreeTrialValue>//*[@id="main"]/div/div[1]/div[5]/div[2]/div[3]</STCBAHPremiumFreeTrialValue>
+    <STCBAHLiteVedioQualityValue>//*[@id="main"]/div/div[1]/div[6]/div[2]/div[1]</STCBAHLiteVedioQualityValue>
+    <STCBAHClassicVideoQualityValue>//*[@id="main"]/div/div[1]/div[6]/div[2]/div[2]</STCBAHClassicVideoQualityValue>
+    <STCBAHPremiumVideoQualityValue>//*[@id="main"]/div/div[1]/div[6]/div[2]/div[3]</STCBAHPremiumVideoQualityValue>
+    <STCBAHLiteDeviceAccessValue>//*[@id="main"]/div/div[1]/div[7]/div[2]/div[1]</STCBAHLiteDeviceAccessValue>
+    <STCBAHClassicDeviceAccessValue>//*[@id="main"]/div/div[1]/div[7]/div[2]/div[2]</STCBAHClassicDeviceAccessValue>
+    <STCBAHPremiumDeviceAccessValue>//*[@id="main"]/div/div[1]/div[7]/div[2]/div[3]</STCBAHPremiumDeviceAccessValue>
+    <STCBAHLiteRewindValue>//*[@id="main"]/div/div[1]/div[8]/div[2]/div[1]</STCBAHLiteRewindValue>
+    <STCBAHClassicRewindValue>//*[@id="main"]/div/div[1]/div[8]/div[2]/div[2]</STCBAHClassicRewindValue>
+    <STCBAHPremiumRewindValue>//*[@id="main"]/div/div[1]/div[8]/div[2]/div[3]</STCBAHPremiumRewindValue>
+    <STCBAHLiteWatchOfflineValue>//*[@id="main"]/div/div[1]/div[9]/div[2]/div[1]</STCBAHLiteWatchOfflineValue>
+    <STCBAHClassicWatchOfflineValue>//*[@id="main"]/div/div[1]/div[9]/div[2]/div[2]</STCBAHClassicWatchOfflineValue>
+    <STCBAHPremiumWatchOfflineValue>//*[@id="main"]/div/div[1]/div[9]/div[2]/div[3]</STCBAHPremiumWatchOfflineValue>
+    <STCBAHLiteWatchSimultaneouslyValue>//*[@id="main"]/div/div[1]/div[10]/div[2]/div[1]</STCBAHLiteWatchSimultaneouslyValue>
+    <STCBAHClassicWatchSimultaneouslyValue>//*[@id="main"]/div/div[1]/div[10]/div[2]/div[2]</STCBAHClassicWatchSimultaneouslyValue>
+    <STCBAHPremiumWatchSimultaneouslyValue>//*[@id="main"]/div/div[1]/div[10]/div[2]/div[3]</STCBAHPremiumWatchSimultaneouslyValue>
+    <STCBAHLiteCastToTVValue>//*[@id="main"]/div/div[1]/div[11]/div[2]/div[1]</STCBAHLiteCastToTVValue>
+    <STCBAHClassicCastToTValue>//*[@id="main"]/div/div[1]/div[11]/div[2]/div[2]</STCBAHClassicCastToTValue>
+    <STCBAHPremiumCastToTVValue>//*[@id="main"]/div/div[1]/div[11]/div[2]/div[3]</STCBAHPremiumCastToTVValue>
+    <STCBAHLiteDiscoveryPlusValue>//*[@id="main"]/div/div[2]/div[2]/div[2]/div[1]</STCBAHLiteDiscoveryPlusValue>
+    <STCBAHClassicDiscoveryPlusValue>//*[@id="main"]/div/div[2]/div[2]/div[2]/div[2]</STCBAHClassicDiscoveryPlusValue>
+    <STCBAHPremiumDiscoveryPlusValue>//*[@id="main"]/div/div[2]/div[2]/div[2]/div[3]</STCBAHPremiumDiscoveryPlusValue>
+    <STCBAHLiteFightValue>//*[@id="main"]/div/div[2]/div[3]/div[2]/div[1]</STCBAHLiteFightValue>
+    <STCBAHClassicFightValue>//*[@id="main"]/div/div[2]/div[3]/div[2]/div[2]</STCBAHClassicFightValue>
+    <STCBAHPremiumFightValue>//*[@id="main"]/div/div[2]/div[3]/div[2]/div[3]</STCBAHPremiumFightValue>
+
+</Locaters>
